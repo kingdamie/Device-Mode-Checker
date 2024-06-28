@@ -38,7 +38,7 @@ useEffect(() => {
 				{colorScheme === "light" ? (
 					<p>The users device is in light mode</p>
 				) : (
-					<p>The users device is in dark mode</p>
+					<p>The users device is im m dark mode</p>
 				)}
 			</div>
 		</>
